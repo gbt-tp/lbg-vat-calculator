@@ -1,1 +1,1 @@
-This is a simple VAT Calculator ReactJS application
+This is a very simple VAT Calculator ReactJS application
